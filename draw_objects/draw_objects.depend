@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1596620147 source:c:\workspace\learning_c_cplusplus\draw_objects\main.cpp
+	<iostream>
+	<string>
+

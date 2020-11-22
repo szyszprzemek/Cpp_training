@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1596708377 source:c:\workspace\learning_c_cplusplus\dereb_banas_tutorial\main.cpp
+	<cstdlib>
+	<iostream>
+	<string>
+	<limits>
+	<vector>
+	<sstream>
+	<numeric>
+	<ctime>
+	<cmath>
+	<algorithm>
+	<iterator>
+	<fstream>
+	<functional>
+	<deque>
+	<iterator>
+	<memory>
+	<stdio.h>
+	<thread>
+	<chrono>
+	<mutex>
+	<deque>
+	<list>
+	<forward_list>
+	<set>
+	<map>
+	<stack>
+
+1596636073 source:c:\workspace\learning_c_cplusplus\dereb_banas_tutorial\src\shape.cpp
+	"Shape.h"
+
+1596636074 c:\workspace\learning_c_cplusplus\dereb_banas_tutorial\include\shape.h
+
+1596636073 c:\workspace\learning_c_cplusplus\dereb_banas_tutorial\include\circle.h
+	"Shape.h"
+
+1596636071 source:c:\workspace\learning_c_cplusplus\dereb_banas_tutorial\src\circle.cpp
+	"Circle.h"
+	<cmath>
+

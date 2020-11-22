@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1596038298 source:c:\workspace\learning_c_cplusplus\project_one\main.cpp
+	"Car.h"
+
+1596038466 c:\workspace\learning_c_cplusplus\project_one\include\car.h
+	<string>
+	<iostream>
+
+1596038448 source:c:\workspace\learning_c_cplusplus\project_one\src\car.cpp
+	"Car.h"
+

@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1589404228 source:c:\workspace\learning_c_cplusplus\kurs_cplusplus\zadanie1.c
+	<stdio.h>
+
+1589551061 source:c:\workspace\learning_c_cplusplus\kurs_cplusplus\zadanie2.cpp
+	<iostream>
+
+1589402759 c:\workspace\learning_c_cplusplus\kurs_cplusplus\zadanie1.h
+	<stdio.h>
+
+1589403035 source:c:\workspace\learning_c_cplusplus\kurs_cplusplus\main.c
+	"zadanie1.h"
+
+1589404174 source:c:\workspace\learning_c_cplusplus\kurs_cplusplus\zadanie1.cpp
+	<iostream>
+
+1589749296 source:c:\workspace\learning_c_cplusplus\kurs_cplusplus\enum_example.cpp
+	<iostream>
+	<cstdint>
+
